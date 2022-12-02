@@ -17,8 +17,8 @@ I used Python and Django to write this app, with help from HTML, CSS and Java Sc
 
 # Useful Websites
 
-* [Youtube](https://docs.djangoproject.com/en/3.0/contents/)
-* [Youtube](https://www.tutorialspoint.com/django/index.htm)
+* [Django Project](https://docs.djangoproject.com/en/3.0/contents/)
+* [Tutorials Point](https://www.tutorialspoint.com/django/index.htm)
 * [Youtube](https://www.youtube.com/watch?v=phHM6glUURw&t=158s)
 
 
